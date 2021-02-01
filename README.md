@@ -1,13 +1,11 @@
 # Classification of Pitchfork Music Reviews
-### An Exploration of NLP Methods (Ongoing)
-
-### By Khyatee Desai
+### An Exploration of NLP Methods (Ongoing)<br>By Khyatee Desai
 
 # Introduction
 This project explores text preprocessing, stopword removal, lexicon normalization, frequency distribution, part-of-speech analysis, sentiment analysis, vectorization, feature engineering and classification modeling of music reviews published on Pitchfork
 
 # Data
-The dataset for this project comes from a Kaggle collection of[song reviews](https://www.kaggle.com/nolanbconaway/pitchfork-data) published on Pitchfork.com. The data is stored as a collection of tables within a Sqlite database.
+The dataset for this project comes from a Kaggle collection of [song reviews](https://www.kaggle.com/nolanbconaway/pitchfork-data) published on Pitchfork.com. The data is stored as a collection of tables within a Sqlite database.
 
 # Cleaning & Processing 
 - join relevant tables
