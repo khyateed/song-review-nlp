@@ -22,7 +22,7 @@ After creating a frequency distribution, we inspect the most common words used i
  ('album', 8745),
  ('music', 8523),
  ('one', 7614),
- ('band', 6755)`<br>
+ ('band', 6755)`<br><br>
 **Worst Reviews:**<br>
 `('like', 10444),
  ('album', 7030),
@@ -31,11 +31,11 @@ After creating a frequency distribution, we inspect the most common words used i
  ('music', 4562)`<br>
 There does not appear to be a significant difference among the most frequently used words in each review.
 ### Word Clouds
-Word clouds are then generated to visually inspect the most common words in each class:<br>
+Word clouds are then generated to visually inspect the most common words in each class.<br>
 **Best Reviews:**<br>
-![Best Cloud](images/best_cloud.png)
+![Best Cloud](images/best_cloud.png)<br>
 **Worst Reviews:**<br>
-![Worst Cloud](images/worst_cloud.png)
+![Worst Cloud](images/worst_cloud.png)<br>
 
 # Feature Engineering
 
