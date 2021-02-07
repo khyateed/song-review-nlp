@@ -38,6 +38,13 @@ Word clouds are then generated to visually inspect the most common words in each
 ![Worst Cloud](images/worst_cloud.png)<br>
 
 # Feature Engineering
+The feature engineering process includes length analysis, Part of Speech (POS) analysis, and sentiment analysis.
+### Length Analysis
+Length analysis uses lambda functions to measure `word_count`,	`char_count`, `sentence_count`,	`avg_word_length`,	and `avg_sentence_length`.<br>
+"Best" reviews had an average word count of 910.717931, while "worst" reviews had an average word count of 680.766667.<br>
+Along the same vein, Best reviews had an average sentence count of 34.734050, vs 26.614667 for Worst reviews. These statistics indicate that top-scoring reviews contain more words and longer sentences, in general.
+### Part of Speech Analysis
+### Sentiment Analysis
 
 # Vectorization
 
